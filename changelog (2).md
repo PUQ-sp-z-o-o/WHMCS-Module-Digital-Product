@@ -1,0 +1,11 @@
+# Changelog
+
+### Digital Product module **[WHMCS](https://puqcloud.com/link.php?id=77)** 
+
+#####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-digital-product) | [Download](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-Digital-Product/) | [FAQ](https://faq.puqcloud.com/)
+
+##### v1.0 Released 09-06-2024
+
+First version
+
+<div id="bkmrk-"><div></div></div><div id="bkmrk--0"><div></div></div><div id="bkmrk--1"><div></div></div><div id="bkmrk--2"><div></div></div>
